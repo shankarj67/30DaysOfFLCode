@@ -46,6 +46,8 @@ Federated learning involves training statistical models over remote devices or s
 
 * [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977) - Federated learning (FL) is a machine learning setting where many clients collaboratively train a model under the orchestration of a central server, while keeping the training data decentralized. Motivated by the explosive growth in FL research, this paper discusses recent advances and presents an extensive collection of open problems and challenges.
 
+* [User-Empowered Federated Learning in the Automotive Domain](https://ieeexplore.ieee.org/abstract/document/10664305) - This paper proposes a User-Empowered FL approach, built upon the Flower Framework, implemented in an Android Automotive app. Source code is available [here](https://github.com/marcellomaugeri/User-Empowered-Federated-Learning-in-Automotive).
+
 
 ### Courses
 
