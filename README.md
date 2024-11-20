@@ -28,14 +28,28 @@ Find all the information and instructions on how to contribute in [CONTRIBUTING.
 
 Please find below all the contributed resources, organised by category
 
-### Tools 
 
-### Articles
 
 ### Tutorials
 
-### Videos
+* [SyftBox | #30DaysOfFLCode](https://30-days-of-fl.openmined.org/) - The new project by OpenMined that aims to make privacy-enhancing technologies more accessible and user-friendly for developers.
+    * [SyftBox Computational Model](https://30-days-of-fl.openmined.org/computation-model) - How computation works on SyftBox, in a nutshell
+    * [Federated CPU Tracker Member (part1)](https://30-days-of-fl.openmined.org/cpu-tracker-1) - An example of SyftBox API that monitors local CPU usage and shares a private/sanitized version of the data within the SyftBox federated network.
+    * [Federated CPU Tracker Leader (part 2)](https://30-days-of-fl.openmined.org/cpu-tracker-2) - A SyftBox API that aggregates CPU data from all members contributing to the computation, and creates a live visualization dashboard.
 
-### Books
+* [Study Heart Disease using PySyft](https://openmined.github.io/syft-heart-disease-tutorial/) - a full-fledge Machine learning tutorial using PySyft and FL
+    
+### Articles
+
+* [Beyond Privacy Trade-offs with Structured Transparency](https://arxiv.org/abs/2012.08347) - Structured Transparency: a five-part framework to combine multiple PETs, such as secure computation and federated learning, to maximise their value, and to reduce lingering use-misuse trade-offs in multiple domains.
+
+* [Federated Learning in 10 Lines of Code, with PySyft](https://blog.openmined.org/fl-in-10-lines-of-code-with-pysyft/) - a quick example of how to run a FL experiment using PySyft on medical data.
 
 ### Courses
+
+* [The Private AI Series](https://courses.openmined.org/)
+
+### Tools 
+
+* [SyftBox](https://github.com/OpenMined/syft)
+* [PySyft](https://github.com/OpenMined/pysyft)
