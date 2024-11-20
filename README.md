@@ -28,14 +28,43 @@ Find all the information and instructions on how to contribute in [CONTRIBUTING.
 
 Please find below all the contributed resources, organised by category
 
-### Tools 
 
-### Articles
 
 ### Tutorials
 
+* [SyftBox | #30DaysOfFLCode](https://syftbox-documentation.openmined.org/) - The new project by [OpenMined](https://openmined.org) that aims to make privacy-enhancing technologies more accessible and user-friendly for developers.
+    * [SyftBox Computational Model](https://syftbox-documentation.openmined.org/computation-model) - How computation works on SyftBox, in a nutshell
+    * [Federated CPU Tracker Member (part1)](https://syftbox-documentation.openmined.org/cpu-tracker-1) - An example of SyftBox API that monitors local CPU usage and shares a private/sanitized version of the data within the SyftBox federated network.
+    * [Federated CPU Tracker Leader (part 2)](https://syftbox-documentation.openmined.org/cpu-tracker-2) - A SyftBox API that aggregates CPU data from all members contributing to the computation, and creates a live visualization dashboard.
+    
+### Articles
+
+* [Beyond Privacy Trade-offs with Structured Transparency](https://arxiv.org/abs/2012.08347) - Structured Transparency: a five-part framework to combine multiple PETs, such as secure computation and federated learning, to maximise their value, and to reduce lingering use-misuse trade-offs in multiple domains.
+
+* [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/1908.07873) - 
+Federated learning involves training statistical models over remote devices or siloed data centers, such as mobile phones or hospitals, while keeping data localized. In this article, we discuss the unique characteristics and challenges of federated learning, provide a broad overview of current approaches, and outline several directions of future work that are relevant to a wide range of research communities.
+
+* [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977) - Federated learning (FL) is a machine learning setting where many clients collaboratively train a model under the orchestration of a central server, while keeping the training data decentralized. Motivated by the explosive growth in FL research, this paper discusses recent advances and presents an extensive collection of open problems and challenges.
+
+
+### Courses
+
+* [The Private AI Series](https://courses.openmined.org/) - Learn how privacy technology is changing our world and how you can lead the charge.
+
+* [Federated Learning Tutorial @ NeurIPS 2020](https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view) - Federated Learning Tutorial @ NeurIPS 2020
+
 ### Videos
+
+* [Tutorial on Differential Privacy](https://youtu.be/ekIL65D0R3o?feature=shared) - Katrina Ligett, California Institute of Technology - Big Data and Differential Privacy
+
+* [Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series](https://youtu.be/4zrU54VIK6k?feature=shared) - Lecture by Andrew Trask in January 2020, part of the MIT Deep Learning Lecture Series.
+
+* [Tutorial: Differential Privacy and Learning: The Tools, The Results, and The Frontier](https://youtu.be/hoEyvHCRRc8?feature=shared) - Katrina Ligett, California Institute of Technology - NeurIPS tutorial 2014
+
+### Tools 
+
+* [SyftBox](https://github.com/OpenMined/syft) - Discover SyftBox, an exciting new project by OpenMined that puts Privacy-Enhancing Technologies at its core.
 
 ### Books
 
-### Courses
+* [Programming Differential Privacy](https://programming-dp.com/) - An open source book about differential privacy, for programmers.
