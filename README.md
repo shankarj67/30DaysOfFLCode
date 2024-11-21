@@ -32,13 +32,13 @@ Please find below all the contributed resources, organised by category
 
 ### Tutorials
 
-* [From Centralised to Decentralised Training: An Intro to Federated Learning](https://github.com/deep-learning-indaba/indaba-pracs-2024/tree/main/practicals/Federated_Learning) - A Jupyter Notebook tutorial aimed to provide a practical overview with code examples to all the the foundational concepts tackled in federated learning. This tutorial was written by Andrej Jovanović, Sree Harsha Nelaturu and Luca Powell and presented at the 2024 iteration of the Deep Learning Indaba. 
-
 * [SyftBox | #30DaysOfFLCode](https://syftbox-documentation.openmined.org/) - The new project by [OpenMined](https://openmined.org) that aims to make privacy-enhancing technologies more accessible and user-friendly for developers.
 
     * [SyftBox Computational Model](https://syftbox-documentation.openmined.org/computation-model) - How computation works on SyftBox, in a nutshell
     * [Federated CPU Tracker Member (part1)](https://syftbox-documentation.openmined.org/cpu-tracker-1) - An example of SyftBox API that monitors local CPU usage and shares a private/sanitized version of the data within the SyftBox federated network.
     * [Federated CPU Tracker Leader (part 2)](https://syftbox-documentation.openmined.org/cpu-tracker-2) - A SyftBox API that aggregates CPU data from all members contributing to the computation, and creates a live visualization dashboard.
+
+* [From Centralised to Decentralised Training: An Intro to Federated Learning](https://github.com/deep-learning-indaba/indaba-pracs-2024/tree/main/practicals/Federated_Learning) - A Jupyter Notebook tutorial aimed to provide a practical overview with code examples to all the the foundational concepts tackled in federated learning. This tutorial was written by Andrej Jovanović, Sree Harsha Nelaturu and Luca Powell and presented at the 2024 iteration of the Deep Learning Indaba. 
 
 ### Articles
 
