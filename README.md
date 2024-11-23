@@ -42,6 +42,8 @@ Please find below all the contributed resources, organised by category
   
 * [Collection of Tutorials in Federate Learning from Tensor Flow](https://www.tensorflow.org/federated/tutorials/tutorials_overview) - A TensorFlow Colab Notebook collection of Federated Learning tutorials designed to provide practical examples of Federated Learning, covering concepts from basic to advanced levels.
 
+* [Federated Learning for Credit Scoring](https://blog.openmined.org/federated-credit-scoring/) - A detailed blog post exploring the application of federated learning to credit scoring. It discusses key concepts such as silo vs. device architectures, horizontal vs. vertical federated learning, and non-IID data challenges, and includes source code examples.
+
 ### Articles
 
 * [Beyond Privacy Trade-offs with Structured Transparency](https://arxiv.org/abs/2012.08347) - Structured Transparency: a five-part framework to combine multiple PETs, such as secure computation and federated learning, to maximise their value, and to reduce lingering use-misuse trade-offs in multiple domains.
@@ -67,6 +69,8 @@ Federated learning involves training statistical models over remote devices or s
 * [Federated Learning Tutorial @ NeurIPS 2020](https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view) - Federated Learning Tutorial @ NeurIPS 2020
 
 * [Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185) - Learn skills to build AI systems that prioritize security and privacy using cutting-edge techniques. The course introduces tools and methods for securely handling sensitive data in AI applications, including Federated Learning, Differential Privacy, and Encrypted Computation.
+
+* [Foundations of Private Computation](https://courses.openmined.org/courses/foundations-of-private-computation) - A comprehensive training program offered by OpenMined on the Foundations of Private Computation. The course covers topics such as Federated Learning, Split Learning, Cryptography (including introductory concepts, underlying mathematical foundations, and practical applications), Homomorphic Encryption, Secure Multi-Party Computation, Public Key Infrastructure (PKI), and Private Set Intersection.
 
 ### Videos
 
