@@ -76,4 +76,6 @@ Federated learning involves training statistical models over remote devices or s
 
 ### Books
 
+* [Optimization Algorithms for Distributed Machine Learning](https://link.springer.com/book/10.1007/978-3-031-19067-4) - Textbook discussing SoTA optimization algorithms for distributed/federated machine learning. Access to materials requires subscription.
+
 * [Programming Differential Privacy](https://programming-dp.com/) - An open source book about differential privacy, for programmers.
