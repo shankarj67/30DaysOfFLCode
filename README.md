@@ -80,6 +80,8 @@ Federated learning involves training statistical models over remote devices or s
 
 * [SyftBox](https://github.com/OpenMined/syft) - Discover SyftBox, an exciting new project by OpenMined that puts Privacy-Enhancing Technologies at its core.
 
+* [Flower](https://github.com/adap/flower) - An ML framework agnostic friendly Federated AI network developed by Flower Labs.
+
 ### Books
 
 * [Optimization Algorithms for Distributed Machine Learning](https://link.springer.com/book/10.1007/978-3-031-19067-4) - Textbook discussing SoTA optimization algorithms for distributed/federated machine learning. Access to materials requires subscription.

@@ -4,7 +4,7 @@
 
 1. **Fork the Repository**
    - Click the 'Fork' button in the top right of this repository
-   - Clone your fork locally: `git clone https://github.com/OpenMined/30DaysOfFLCode`
+   - Clone your forked locally: `git clone https://github.com/OpenMined/30DaysOfFLCode`
 
 2. **Create a Branch**
    - Create a new branch for your addition: `git checkout -b <category-resource-name>`
