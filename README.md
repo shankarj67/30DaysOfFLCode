@@ -46,7 +46,7 @@ Please find below all the contributed resources, organised by category
 
 * [Beyond Privacy Trade-offs with Structured Transparency](https://arxiv.org/abs/2012.08347) - Structured Transparency: a five-part framework to combine multiple PETs, such as secure computation and federated learning, to maximise their value, and to reduce lingering use-misuse trade-offs in multiple domains.
 
-* [Private AI Series](https://blog.openmined.org/tag/private-ai-series/) - This blog series is a compendious alternative to get introduced with topics like information flow, structured transperency and more.
+* [Private AI Series](https://blog.openmined.org/tag/private-ai-series/) - This blog series is a compendious alternative to get introduced with topics like information flow, structured transparency and more.
 
 * [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/1908.07873) - 
 Federated learning involves training statistical models over remote devices or siloed data centers, such as mobile phones or hospitals, while keeping data localized. In this article, we discuss the unique characteristics and challenges of federated learning, provide a broad overview of current approaches, and outline several directions of future work that are relevant to a wide range of research communities.
