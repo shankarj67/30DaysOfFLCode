@@ -87,3 +87,11 @@ Federated learning involves training statistical models over remote devices or s
 * [Optimization Algorithms for Distributed Machine Learning](https://link.springer.com/book/10.1007/978-3-031-19067-4) - Textbook discussing SoTA optimization algorithms for distributed/federated machine learning. Access to materials requires subscription.
 
 * [Programming Differential Privacy](https://programming-dp.com/) - An open source book about differential privacy, for programmers.
+
+### Games & Simulations
+
+* [Federated Learning Hyperparam Tuning Game](https://amanpriyanshu.github.io/FL-Interactive-Game/) - Understand and play with federated learning hyperparams! In-browser tensorflow-js simulation of FedAvg to understand and gain intuition about IID and Non-IID Federated Learning settings.
+
+* [Differentially Private Tetris](https://amanpriyanshu.github.io/Differentially-Private-Tetris/) - A unique twist on classic Tetris where players manage a privacy budget to reveal blocks, demonstrating differential privacy concepts through gameplay. Experience privacy-utility tradeoffs in an engaging way.
+
+* [The Unlearning Protocol](https://amanpriyanshu.github.io/The-Unlearning-Protocol/) - An interactive game exploring machine learning unlearning and fairness concepts. Players select data points that least impact the dataset, providing hands-on experience with data removal and model fairness considerations.
