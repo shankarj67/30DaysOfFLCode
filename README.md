@@ -68,6 +68,8 @@ Federated learning involves training statistical models over remote devices or s
 
 * [Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185) - Learn skills to build AI systems that prioritize security and privacy using cutting-edge techniques. The course introduces tools and methods for securely handling sensitive data in AI applications, including Federated Learning, Differential Privacy, and Encrypted Computation.
 
+* [Federated learning course at Aalto university](https://www.youtube.com/watch?v=54caAfGwM88&list=PLrbn2dGrLJK9TwK1TILxluPApQCLq1Tf5) - A master level Federated Learning course from Aalto university.
+
 ### Videos
 
 * [Tutorial on Differential Privacy](https://youtu.be/ekIL65D0R3o?feature=shared) - Katrina Ligett, California Institute of Technology - Big Data and Differential Privacy
