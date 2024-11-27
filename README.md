@@ -48,10 +48,14 @@ Please find below all the contributed resources, organised by category
 
 * [Beyond Privacy Trade-offs with Structured Transparency](https://arxiv.org/abs/2012.08347) - Structured Transparency: a five-part framework to combine multiple PETs, such as secure computation and federated learning, to maximise their value, and to reduce lingering use-misuse trade-offs in multiple domains.
 
+* [Private AI Series](https://blog.openmined.org/tag/private-ai-series/) - This blog series is a compendious alternative to get introduced with topics like information flow, structured transparency and more.
+
 * [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/1908.07873) - 
 Federated learning involves training statistical models over remote devices or siloed data centers, such as mobile phones or hospitals, while keeping data localized. In this article, we discuss the unique characteristics and challenges of federated learning, provide a broad overview of current approaches, and outline several directions of future work that are relevant to a wide range of research communities.
 
 * [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977) - Federated learning (FL) is a machine learning setting where many clients collaboratively train a model under the orchestration of a central server, while keeping the training data decentralized. Motivated by the explosive growth in FL research, this paper discusses recent advances and presents an extensive collection of open problems and challenges.
+
+* [User-Empowered Federated Learning in the Automotive Domain](https://ieeexplore.ieee.org/abstract/document/10664305) - This paper proposes a User-Empowered FL approach, built upon the Flower Framework, implemented in an Android Automotive app. Source code is available [here](https://github.com/marcellomaugeri/User-Empowered-Federated-Learning-in-Automotive). Please note that the paper is not open access and requires an IEEE subscription or institutional login.
 
 * [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf) - First paper on Federated Learning by McMahan et. al. Google Inc. This paper introduces the term Federated Learning, runs experiments on MNIST and CIFAR Datasets, and also introduces the famous aggregation algorithm FedAverage. Check out the blog based on the paper here: [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://research.google/blog/federated-learning-collaborative-machine-learning-without-centralized-training-data/)
 
@@ -72,6 +76,8 @@ Federated learning involves training statistical models over remote devices or s
 
 * [Foundations of Private Computation](https://courses.openmined.org/courses/foundations-of-private-computation) - A comprehensive training program offered by OpenMined on the Foundations of Private Computation. The course covers topics such as Federated Learning, Split Learning, Cryptography (including introductory concepts, underlying mathematical foundations, and practical applications), Homomorphic Encryption, Secure Multi-Party Computation, Public Key Infrastructure (PKI), and Private Set Intersection.
 
+* [A Course In Differential Privacy](https://youtube.com/playlist?list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp&si=_4r3HM1bTNSW9gwr) - An in-depth course by Dr Gautam Kamath exploring Differential Privacy and aligned concepts theoretically and mathematically. (CS-860: Algorithms for Private Data Analysis @ University of Waterloo)
+
 ### Videos
 
 * [Tutorial on Differential Privacy](https://youtu.be/ekIL65D0R3o?feature=shared) - Katrina Ligett, California Institute of Technology - Big Data and Differential Privacy
@@ -87,6 +93,7 @@ Federated learning involves training statistical models over remote devices or s
 * [Flower](https://github.com/adap/flower) - An ML framework agnostic friendly Federated AI network developed by Flower Labs.
 
 ### Books
+
 
 * [Optimization Algorithms for Distributed Machine Learning](https://link.springer.com/book/10.1007/978-3-031-19067-4) - Textbook discussing SoTA optimization algorithms for distributed/federated machine learning. Access to materials requires subscription.
 
