@@ -39,7 +39,7 @@ Please find below all the contributed resources, organised by category
 
 - [From Centralised to Decentralised Training: An Intro to Federated Learning](https://github.com/deep-learning-indaba/indaba-pracs-2024/tree/main/practicals/Federated_Learning) - A Jupyter Notebook tutorial aimed to provide a practical overview with code examples to all the the foundational concepts tackled in federated learning. This tutorial was written by Andrej Jovanović, Sree Harsha Nelaturu and Luca Powell and presented at the 2024 iteration of the Deep Learning Indaba.
 
-- [Ring Computation Walkthrough: Calculating An Average Across Nodes](./create-average-ring-computation.md) - A brief walkthrough on creating a Ring Computation that computes the average value from nodes.
+- [Ring Computation Walkthrough: Calculating An Average Across Nodes](https://github.com/flow254/FLFun/blob/main/create-average-ring-computation.md) - A brief walkthrough on creating a Ring Computation that computes the average value from nodes.
 
 ### Articles
 
