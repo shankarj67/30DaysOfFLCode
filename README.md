@@ -74,9 +74,12 @@ Federated learning involves training statistical models over remote devices or s
 
 * [Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185) - Learn skills to build AI systems that prioritize security and privacy using cutting-edge techniques. The course introduces tools and methods for securely handling sensitive data in AI applications, including Federated Learning, Differential Privacy, and Encrypted Computation.
 
+* [Federated learning course at Aalto university](https://www.youtube.com/watch?v=54caAfGwM88&list=PLrbn2dGrLJK9TwK1TILxluPApQCLq1Tf5) - A master level Federated Learning course from Aalto university.
+
 * [Foundations of Private Computation](https://courses.openmined.org/courses/foundations-of-private-computation) - A comprehensive training program offered by OpenMined on the Foundations of Private Computation. The course covers topics such as Federated Learning, Split Learning, Cryptography (including introductory concepts, underlying mathematical foundations, and practical applications), Homomorphic Encryption, Secure Multi-Party Computation, Public Key Infrastructure (PKI), and Private Set Intersection.
 
 * [A Course In Differential Privacy](https://youtube.com/playlist?list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp&si=_4r3HM1bTNSW9gwr) - An in-depth course by Dr Gautam Kamath exploring Differential Privacy and aligned concepts theoretically and mathematically. (CS-860: Algorithms for Private Data Analysis @ University of Waterloo)
+
 
 ### Videos
 
