@@ -102,6 +102,8 @@ Federated learning involves training statistical models over remote devices or s
 
 * [Programming Differential Privacy](https://programming-dp.com/) - An open source book about differential privacy, for programmers.
 
+* [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) - A foundational text that delves into the theoretical aspects of differential privacy, exploring its principles and practical applications in safeguarding individual data.
+
 ### Games & Simulations
 
 * [DP Vision](https://www.oblivious.com/games/dp-vision) - Test your image recognition skills with differentially private images! Players manage a privacy budget to reveal image details, aiming to identify the correct image within 5 guesses while minimizing privacy loss.
