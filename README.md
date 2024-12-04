@@ -38,16 +38,16 @@ Please find below all the contributed resources, organised by category
   - [Federated CPU Tracker Leader (part 2)](https://syftbox-documentation.openmined.org/cpu-tracker-2) - A SyftBox API that aggregates CPU data from all members contributing to the computation, and creates a live visualization dashboard.
   - [Ring Computation Walkthrough: Calculating An Average Across Nodes](https://github.com/flow254/FLFun/blob/main/create-average-ring-computation.md) - A brief walkthrough on creating a Ring Computation on SyftBox that computes the average value from nodes.
 
-* [From Centralised to Decentralised Training: An Intro to Federated Learning](https://github.com/deep-learning-indaba/indaba-pracs-2024/tree/main/practicals/Federated_Learning) - A Jupyter Notebook tutorial aimed to provide a practical overview with code examples to all the the foundational concepts tackled in federated learning. This tutorial was written by Andrej Jovanović, Sree Harsha Nelaturu and Luca Powell and presented at the 2024 iteration of the Deep Learning Indaba.
-* [Collection of Tutorials in Federate Learning from Tensor Flow](https://www.tensorflow.org/federated/tutorials/tutorials_overview) - A TensorFlow Colab Notebook collection of Federated Learning tutorials designed to provide practical examples of Federated Learning, covering concepts from basic to advanced levels.
+- [From Centralised to Decentralised Training: An Intro to Federated Learning](https://github.com/deep-learning-indaba/indaba-pracs-2024/tree/main/practicals/Federated_Learning) - A Jupyter Notebook tutorial aimed to provide a practical overview with code examples to all the the foundational concepts tackled in federated learning. This tutorial was written by Andrej Jovanović, Sree Harsha Nelaturu and Luca Powell and presented at the 2024 iteration of the Deep Learning Indaba.
+- [Collection of Tutorials in Federate Learning from Tensor Flow](https://www.tensorflow.org/federated/tutorials/tutorials_overview) - A TensorFlow Colab Notebook collection of Federated Learning tutorials designed to provide practical examples of Federated Learning, covering concepts from basic to advanced levels.
 
-* [Federated Learning for Credit Scoring](https://blog.openmined.org/federated-credit-scoring/) - A detailed blog post exploring the application of federated learning to credit scoring. It discusses key concepts such as silo vs. device architectures, horizontal vs. vertical federated learning, and non-IID data challenges, and includes source code examples.
+- [Federated Learning for Credit Scoring](https://blog.openmined.org/federated-credit-scoring/) - A detailed blog post exploring the application of federated learning to credit scoring. It discusses key concepts such as silo vs. device architectures, horizontal vs. vertical federated learning, and non-IID data challenges, and includes source code examples.
 
 ### Articles
 
 - [Beyond Privacy Trade-offs with Structured Transparency](https://arxiv.org/abs/2012.08347) - Structured Transparency: a five-part framework to combine multiple PETs, such as secure computation and federated learning, to maximise their value, and to reduce lingering use-misuse trade-offs in multiple domains.
 
-* [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/1908.07873) -
+- [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/1908.07873) -
   Federated learning involves training statistical models over remote devices or siloed data centers, such as mobile phones or hospitals, while keeping data localized. In this article, we discuss the unique characteristics and challenges of federated learning, provide a broad overview of current approaches, and outline several directions of future work that are relevant to a wide range of research communities.
 
 - [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977) - Federated learning (FL) is a machine learning setting where many clients collaboratively train a model under the orchestration of a central server, while keeping the training data decentralized. Motivated by the explosive growth in FL research, this paper discusses recent advances and presents an extensive collection of open problems and challenges.
@@ -58,17 +58,19 @@ Please find below all the contributed resources, organised by category
 
 - [An online comic on Federated Learning, by Google AI](https://federated.withgoogle.com/) - Google AI came up with this fun online comic on Federated Learning which is a great resource for beginners starting their journey in the field of Federated Learning. Great for building up the motivation to learn FL.
 
+- [Federated Learning and Privacy](https://dl.acm.org/doi/pdf/10.1145/3500240) - This article provides a brief introduction to key concepts in federated learning and analytics with an emphasis on how privacy technologies may be combined in real-world systems and how their use charts a path toward societal benefit from aggregate statistics in new domains and with minimized risk to individuals and to the organizations who are custodians of the data.
+
 ### Courses
 
 - [The Private AI Series](https://courses.openmined.org/) - Learn how privacy technology is changing our world and how you can lead the charge.
 
-* [Federated Learning @ DeepLearning.AI](https://www.deeplearning.ai/short-courses/intro-to-federated-learning/) - An introductory course on federated learning delivered by DeepLearning.AI in collaboration with Flower.
+- [Federated Learning @ DeepLearning.AI](https://www.deeplearning.ai/short-courses/intro-to-federated-learning/) - An introductory course on federated learning delivered by DeepLearning.AI in collaboration with Flower.
 
-* [Federated Fine-tuning of LLMs with Private Data @ DeepLearning.AI x Flower Labs](https://learn.deeplearning.ai/courses/intro-to-federated-learning-c2)- Part 2 of the Intro to Federated Learning course delivered by DeepLearning.AI and Flower Labs.
+- [Federated Fine-tuning of LLMs with Private Data @ DeepLearning.AI x Flower Labs](https://learn.deeplearning.ai/courses/intro-to-federated-learning-c2)- Part 2 of the Intro to Federated Learning course delivered by DeepLearning.AI and Flower Labs.
 
 - [Federated Learning Tutorial @ NeurIPS 2020](https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view) - Federated Learning Tutorial @ NeurIPS 2020
 
-* [Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185) - Learn skills to build AI systems that prioritize security and privacy using cutting-edge techniques. The course introduces tools and methods for securely handling sensitive data in AI applications, including Federated Learning, Differential Privacy, and Encrypted Computation.
+- [Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185) - Learn skills to build AI systems that prioritize security and privacy using cutting-edge techniques. The course introduces tools and methods for securely handling sensitive data in AI applications, including Federated Learning, Differential Privacy, and Encrypted Computation.
 
 ### Videos
 
@@ -77,6 +79,8 @@ Please find below all the contributed resources, organised by category
 - [Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series](https://youtu.be/4zrU54VIK6k?feature=shared) - Lecture by Andrew Trask in January 2020, part of the MIT Deep Learning Lecture Series.
 
 - [Tutorial: Differential Privacy and Learning: The Tools, The Results, and The Frontier](https://youtu.be/hoEyvHCRRc8?feature=shared) - Katrina Ligett, California Institute of Technology - NeurIPS tutorial 2014
+
+- [Multi Party Computation Concepts](https://youtube.com/playlist?list=PLvJRBKreefNyPFgkjcFJ2UMIy6Icche1H&feature=shared) - Beginner Friendly
 
 ### Tools
 
@@ -87,6 +91,8 @@ Please find below all the contributed resources, organised by category
 - [Optimization Algorithms for Distributed Machine Learning](https://link.springer.com/book/10.1007/978-3-031-19067-4) - Textbook discussing SoTA optimization algorithms for distributed/federated machine learning. Access to materials requires subscription.
 
 - [Programming Differential Privacy](https://programming-dp.com/) - An open source book about differential privacy, for programmers.
+
+- [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) - A foundational text that delves into the theoretical aspects of differential privacy, exploring its principles and practical applications in safeguarding individual data.
 
 ### Games & Simulations
 
