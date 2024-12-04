@@ -36,6 +36,7 @@ Please find below all the contributed resources, organised by category
   - [SyftBox Computational Model](https://syftbox-documentation.openmined.org/computation-model) - How computation works on SyftBox, in a nutshell
   - [Federated CPU Tracker Member (part1)](https://syftbox-documentation.openmined.org/cpu-tracker-1) - An example of SyftBox API that monitors local CPU usage and shares a private/sanitized version of the data within the SyftBox federated network.
   - [Federated CPU Tracker Leader (part 2)](https://syftbox-documentation.openmined.org/cpu-tracker-2) - A SyftBox API that aggregates CPU data from all members contributing to the computation, and creates a live visualization dashboard.
+  - [Getting Started with Federated Learning on SyftBox]([https://syftbox-documentation.openmined.org/tutorials/federated-learning/](https://syftbox-documentation.openmined.org/tutorials/federated-learning/getting-started/)) - A complete federated learning workflow for MNIST digit classification using SyftBox.
   - [Ring Computation Walkthrough: Calculating An Average Across Nodes](https://github.com/flow254/FLFun/blob/main/create-average-ring-computation.md) - A brief walkthrough on creating a Ring Computation on SyftBox that computes the average value from nodes.
 
 - [From Centralised to Decentralised Training: An Intro to Federated Learning](https://github.com/deep-learning-indaba/indaba-pracs-2024/tree/main/practicals/Federated_Learning) - A Jupyter Notebook tutorial aimed to provide a practical overview with code examples to all the the foundational concepts tackled in federated learning. This tutorial was written by Andrej Jovanović, Sree Harsha Nelaturu and Luca Powell and presented at the 2024 iteration of the Deep Learning Indaba.
@@ -59,6 +60,8 @@ Please find below all the contributed resources, organised by category
 - [An online comic on Federated Learning, by Google AI](https://federated.withgoogle.com/) - Google AI came up with this fun online comic on Federated Learning which is a great resource for beginners starting their journey in the field of Federated Learning. Great for building up the motivation to learn FL.
 
 - [Federated Learning and Privacy](https://dl.acm.org/doi/pdf/10.1145/3500240) - This article provides a brief introduction to key concepts in federated learning and analytics with an emphasis on how privacy technologies may be combined in real-world systems and how their use charts a path toward societal benefit from aggregate statistics in new domains and with minimized risk to individuals and to the organizations who are custodians of the data.
+  
+- [Import AI 393: 10B distributed training run; China VS the chip embargo; and moral hazards of AI development](https://jack-clark.net/2024/12/03/import-ai-393-10b-distributed-training-run-china-vs-the-chip-embargo-and-moral-hazards-of-ai-development/) - Interesting article about the future of decentralised training 
 
 ### Courses
 
@@ -80,11 +83,13 @@ Please find below all the contributed resources, organised by category
 
 - [Tutorial: Differential Privacy and Learning: The Tools, The Results, and The Frontier](https://youtu.be/hoEyvHCRRc8?feature=shared) - Katrina Ligett, California Institute of Technology - NeurIPS tutorial 2014
 
-- [Multi Party Computation Concepts](https://youtube.com/playlist?list=PLvJRBKreefNyPFgkjcFJ2UMIy6Icche1H&feature=shared) - Beginner Friendly
+- [Multi Party Computation Concepts](https://youtube.com/playlist?list=PLvJRBKreefNyPFgkjcFJ2UMIy6Icche1H&feature=shared) - Beginner Friendly series of videos about MPC
 
 ### Tools
 
 - [SyftBox](https://github.com/OpenMined/syft) - Discover SyftBox, an exciting new project by OpenMined that puts Privacy-Enhancing Technologies at its core.
+
+- [OpenVector](https://openvector.gitbook.io/openvector) - CoFHE (Collaborative-Fully Homomorphic Encryption). Confidential compute primitive that is 100x faster than FHE. 
 
 ### Books
 
