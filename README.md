@@ -84,6 +84,7 @@ Please find below all the contributed resources, organised by category
 - [Tutorial: Differential Privacy and Learning: The Tools, The Results, and The Frontier](https://youtu.be/hoEyvHCRRc8?feature=shared) - Katrina Ligett, California Institute of Technology - NeurIPS tutorial 2014
 
 - [Multi Party Computation Concepts](https://youtube.com/playlist?list=PLvJRBKreefNyPFgkjcFJ2UMIy6Icche1H&feature=shared) - Beginner Friendly series of videos about MPC
+- [A Course In Differential Privacy](https://www.youtube.com/playlist?list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp) - A course on Differential Privacy by Gautam Kamath, Assistant Professor at the University of Waterloo's Cheriton School of Computer Science
 
 ### Tools
 
