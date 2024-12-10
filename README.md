@@ -98,6 +98,8 @@ Please find below all the contributed resources, organised by category
 
 ### Tools
 
+- [PanzaMail](https://github.com/IST-DASLab/PanzaMail) - Panza is an automated email assistant customized to your writing style and past email history, trained without ever sharing your sensitive data.
+
 - [SyftBox](https://github.com/OpenMined/syft) - Discover SyftBox, an exciting new project by OpenMined that puts Privacy-Enhancing Technologies at its core.
 
 - [OpenVector](https://openvector.gitbook.io/openvector) - CoFHE (Collaborative-Fully Homomorphic Encryption). Confidential compute primitive that is 100x faster than FHE. 
