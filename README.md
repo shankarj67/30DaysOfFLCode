@@ -33,9 +33,9 @@ Please find below all the contributed resources, organised by category
 
 - [SyftBox | #30DaysOfFLCode](https://syftbox-documentation.openmined.org/) - The new project by [OpenMined](https://openmined.org) that aims to make privacy-enhancing technologies more accessible and user-friendly for developers.
 
-  - [SyftBox Computational Model](https://syftbox-documentation.openmined.org/computation-model) - How computation works on SyftBox, in a nutshell
-  - [Federated CPU Tracker Member (part1)](https://syftbox-documentation.openmined.org/cpu-tracker-1) - An example of SyftBox API that monitors local CPU usage and shares a private/sanitized version of the data within the SyftBox federated network.
-  - [Federated CPU Tracker Leader (part 2)](https://syftbox-documentation.openmined.org/cpu-tracker-2) - A SyftBox API that aggregates CPU data from all members contributing to the computation, and creates a live visualization dashboard.
+  - [SyftBox Computational Model](https://syftbox-documentation.openmined.org/tutorials/computation-model) - How computation works on SyftBox, in a nutshell
+  - [Federated CPU Tracker Member (part1)](https://syftbox-documentation.openmined.org/tutorials/cpu-tracker/member-api) - An example of SyftBox API that monitors local CPU usage and shares a private/sanitized version of the data within the SyftBox federated network.
+  - [Federated CPU Tracker Leader (part 2)](https://syftbox-documentation.openmined.org/tutorials/cpu-tracker/aggregator-api) - A SyftBox API that aggregates CPU data from all members contributing to the computation, and creates a live visualization dashboard.
   - [Getting Started with Federated Learning on SyftBox](https://syftbox-documentation.openmined.org/tutorials/federated-learning/getting-started/) - A complete federated learning workflow for MNIST digit classification using SyftBox.
   - [Ring Computation Walkthrough: Calculating An Average Across Nodes](https://github.com/flow254/FLFun/blob/main/create-average-ring-computation.md) - A brief walkthrough on creating a Ring Computation on SyftBox that computes the average value from nodes.
 
