@@ -115,7 +115,7 @@ Please find below all the contributed resources, organised by category
 
 - [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) - A foundational text that delves into the theoretical aspects of differential privacy, exploring its principles and practical applications in safeguarding individual data.
 
-- [Data Privacy Handbook] - A short guide from the Utrecht University on data privacy regulations and classical techniques used to make the data private like de-indetification through ommision and other statistical methods.
+- [Data Privacy Handbook](https://utrechtuniversity.github.io/dataprivacyhandbook/index.html) - A short guide from the Utrecht University on data privacy regulations and classical techniques used to make the data private like de-indetification through ommision and other statistical methods.
 
 ### Games & Simulations
 
