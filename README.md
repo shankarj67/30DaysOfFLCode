@@ -104,6 +104,8 @@ Please find below all the contributed resources, organised by category
 
 - [PanzaMail](https://github.com/IST-DASLab/PanzaMail) - Panza is an automated email assistant customized to your writing style and past email history, trained without ever sharing your sensitive data.
 
+- [Secure XGBoost](https://mc2-project.github.io/secure-xgboost/) - Secure XGBoost is a library that provides the capability to train XGBoost models on untrusted enviroments using secure hardware enclaves.
+
 
 ### Books
 
@@ -112,6 +114,8 @@ Please find below all the contributed resources, organised by category
 - [Programming Differential Privacy](https://programming-dp.com/) - An open source book about differential privacy, for programmers.
 
 - [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) - A foundational text that delves into the theoretical aspects of differential privacy, exploring its principles and practical applications in safeguarding individual data.
+
+- [Data Privacy Handbook] - A short guide from the Utrecht University on data privacy regulations and classical techniques used to make the data private like de-indetification through ommision and other statistical methods.
 
 ### Games & Simulations
 
