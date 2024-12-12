@@ -104,7 +104,7 @@ Please find below all the contributed resources, organised by category
 
 - [PanzaMail](https://github.com/IST-DASLab/PanzaMail) - Panza is an automated email assistant customized to your writing style and past email history, trained without ever sharing your sensitive data.
 
-- [Secure XGBoost](https://mc2-project.github.io/secure-xgboost/) - Secure XGBoost is a library that provides the capability to train XGBoost models on untrusted enviroments using secure hardware enclaves.
+- [Secure XGBoost](https://mc2-project.github.io/secure-xgboost/) - Secure XGBoost is a library that provides the capability to collaboratively train XGBoost models on untrusted cloud enviroments using secure hardware enclaves.
 
 
 ### Books
