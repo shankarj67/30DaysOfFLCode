@@ -78,6 +78,8 @@ Please find below all the contributed resources, organised by category
 - [Introduction to Homomorphic Encryption by Zama](https://www.zama.ai/introduction-to-homomorphic-encryption) - This article provides a good introduction to Homomorphic Encryption, with several demo examples on HuggingFace and DeepDives attached.
 
 - [FHE.org Resources](https://fhe.org/resources/) - Compiled resources on homomorphic encryption
+  
+- [Privacy-Preserving Retrieval Augmented Generation with Differential Privacy](https://arxiv.org/abs/2412.04697) - The first paper to explore RAG (Retrieval Augmented Generation) with Differential Privacy.
 
 ### Courses
 
