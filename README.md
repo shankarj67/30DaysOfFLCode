@@ -50,9 +50,11 @@ Please find below all the contributed resources, organised by category
 
 - [NVFlare by NVIDIA](https://nvidia.github.io/NVFlare/catalog/) - A great collection of tutorials in form of a Catalog on Federated Learning using NVFlare by NVIDIA.
 
-- [Tutorials on FATE](https://fate.readthedocs.io/en/latest/2.0/fate/quick_start/) - Collection of tutorials on FATE framework, quickstart, pipelines, ML Tutorials and much more.
+- [Tutorials on FATE (Federated AI Technology Enabler)](https://fate.readthedocs.io/en/latest/2.0/fate/quick_start/) - Collection of tutorials on FATE framework (an industrial grade FL Framework), quickstart, pipelines, ML Tutorials and much more.
 - [OpenFL Running the Federation Tutorials](https://openfl.readthedocs.io/en/latest/developer_guide/running_the_federation.tutorial.html) - These tutorials use the Jupyter Lab server to understand the APIs used in Open Federated Learning (OpenFL).
-
+- [SubstraFL Tutorials by Owkin](https://docs.substra.org/en/stable/examples/substrafl/index.html) - These tutorials are for getting started with SubstraFL, which is a open-source Federated Learning Framework developed by Owkin Research focused on Healthcare.
+- [FedML Tutorials by TensorOpera (Previously FEDML)](https://docs.tensoropera.ai/federate/getting_started) - Getting started tutorials on Federated Learning for FedML by TensorOpera. FedML is a library for large-scale distributed training, model serving, and federated learning.
+- [FedLab Tutorials](https://fedlab.readthedocs.io/en/master/tutorials/tutorial.html) - Tutorials for FedLab (A flexible Federated Learning Framework based on PyTorch) by [SMILELab-FL](https://github.com/SMILELab-FL). FedLab aims to standardize FL simulation procedure, including synchronous algorithm, asynchronous algorithm and communication compression.
 
 ### Articles
 
