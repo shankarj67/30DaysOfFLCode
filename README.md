@@ -71,7 +71,11 @@ Please find below all the contributed resources, organised by category
 
 - [Federated Learning and Privacy](https://dl.acm.org/doi/pdf/10.1145/3500240) - This article provides a brief introduction to key concepts in federated learning and analytics with an emphasis on how privacy technologies may be combined in real-world systems and how their use charts a path toward societal benefit from aggregate statistics in new domains and with minimized risk to individuals and to the organizations who are custodians of the data.
   
-- [Import AI 393: 10B distributed training run; China VS the chip embargo; and moral hazards of AI development](https://jack-clark.net/2024/12/03/import-ai-393-10b-distributed-training-run-china-vs-the-chip-embargo-and-moral-hazards-of-ai-development/) - Interesting article about the future of decentralised training 
+- [Import AI 393: 10B distributed training run; China VS the chip embargo; and moral hazards of AI development](https://jack-clark.net/2024/12/03/import-ai-393-10b-distributed-training-run-china-vs-the-chip-embargo-and-moral-hazards-of-ai-development/) - Interesting article about the future of decentralised training
+
+- [Introduction to Homomorphic Encryption by Zama](https://www.zama.ai/introduction-to-homomorphic-encryption) - This article provides a good introduction to Homomorphic Encryption, with several demo examples on HuggingFace and DeepDives attached.
+
+- [FHE.org Resources](https://fhe.org/resources/) - Compiled resources on homomorphic encryption
 
 ### Courses
 
