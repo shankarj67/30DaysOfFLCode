@@ -143,4 +143,7 @@ Please find below all the contributed resources, organised by category
 
 ###  Experiments:
 - https://github.com/kokkatil/llmFineTuning
+
+### Research Pubs:
+- [Secure Multiparty Computation, Yehuda Lindall, 2020](https://eprint.iacr.org/2020/300.pdf) - A great overview on the research/technical side of secure multi-party computation.
   
