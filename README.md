@@ -127,6 +127,6 @@ Please find below all the contributed resources, organised by category
 
 - [The Unlearning Protocol](https://amanpriyanshu.github.io/The-Unlearning-Protocol/) - An interactive game exploring machine learning unlearning and fairness concepts. Players select data points that least impact the dataset, providing hands-on experience with data removal and model fairness considerations.
 
-  Experiments:
-  -https://github.com/kokkatil/llmFineTuning
+###  Experiments:
+- https://github.com/kokkatil/llmFineTuning
   
