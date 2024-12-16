@@ -55,6 +55,7 @@ Please find below all the contributed resources, organised by category
 - [SubstraFL Tutorials by Owkin](https://docs.substra.org/en/stable/examples/substrafl/index.html) - These tutorials are for getting started with SubstraFL, which is a open-source Federated Learning Framework developed by Owkin Research focused on Healthcare.
 - [FedML Tutorials by TensorOpera (Previously FEDML)](https://docs.tensoropera.ai/federate/getting_started) - Getting started tutorials on Federated Learning for FedML by TensorOpera. FedML is a library for large-scale distributed training, model serving, and federated learning.
 - [FedLab Tutorials](https://fedlab.readthedocs.io/en/master/tutorials/tutorial.html) - Tutorials for FedLab (A flexible Federated Learning Framework based on PyTorch) by [SMILELab-FL](https://github.com/SMILELab-FL). FedLab aims to standardize FL simulation procedure, including synchronous algorithm, asynchronous algorithm and communication compression.
+- [PFL Tutorials by Apple](https://github.com/apple/pfl-research/tree/develop/tutorials) - A collection of tutorial notebooks for [pfl](https://apple.github.io/pfl-research/) which is a simulation framework for accelerating research in Private Federated Learning by Apple Research.
 
 ### Articles
 
