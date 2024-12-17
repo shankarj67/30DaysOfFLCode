@@ -83,6 +83,8 @@ Please find below all the contributed resources, organised by category
 - [Privacy-Preserving Retrieval Augmented Generation with Differential Privacy](https://arxiv.org/abs/2412.04697) - The first paper to explore RAG (Retrieval Augmented Generation) with Differential Privacy.
 - [Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/pdf/2102.02079v4) - This study introduces the first comprehensive benchmark with diverse data partitioning strategies to systematically evaluate FL algorithms under non-IID settings, providing valuable insights for future research. Source code: [here](https://github.com/Xtra-Computing/NIID-Bench).
 
+- [RAPPOR: Randomized Aggregatable Privacy-Preserving Ordinal Response](https://arxiv.org/pdf/1407.6981) - This pioneering algorithm enables privacy-preserving data collection through randomized response techniques. It allows statistical analysis without compromising sensitive data.
+
 ### Courses
 
 - [The Private AI Series](https://courses.openmined.org/) - Learn how privacy technology is changing our world and how you can lead the charge.
