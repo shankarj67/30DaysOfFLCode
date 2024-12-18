@@ -21,7 +21,7 @@ We welcome contributions! Please follow these steps to contribute:
 2. Add your resource(s)
 3. Submit a pull request
 
-Find all the information and instructions on how to contribute in [CONTRIBUTING.md](./CONTRIBUING.md).
+Find all the information and instructions on how to contribute in [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ---
 
@@ -170,11 +170,9 @@ Please find below all the contributed resources, organised by category (click to
 
 
 
----
-
 <!----------- DIVIDER, UNCATEGORIZED----------->
 <details>
-<summary><b> Others</b></summary>
+<summary><b>🛡️ Multiple PETs and Others</b></summary>
 
 ### Articles
 
@@ -199,7 +197,7 @@ Please find below all the contributed resources, organised by category (click to
 - [Data Privacy Handbook](https://utrechtuniversity.github.io/dataprivacyhandbook/index.html) - A short guide from the Utrecht University on data privacy regulations and classical techniques used to make the data private like de-indetification through ommision and other statistical methods.
 
 
-###  Experiments:
+###  Experiments
 - https://github.com/kokkatil/llmFineTuning
   
 
