@@ -86,6 +86,7 @@ Please find below all the contributed resources, organised by category
 
 - [How Federated Learning Protects Privacy](https://pair.withgoogle.com/explorables/federated-learning/) - The PAIR (People + AI Research) team at Google has published this engaging article that explains how Federated Learning protects privacy. It features clear visuals and GIFs to help you better understand the concept and its applications in real-world scenarios.
 
+- [RAPPOR: Randomized Aggregatable Privacy-Preserving Ordinal Response](https://arxiv.org/pdf/1407.6981) - This pioneering algorithm enables privacy-preserving data collection through randomized response techniques. It allows statistical analysis without compromising sensitive data.
 
 ### Courses
 
