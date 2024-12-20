@@ -135,7 +135,15 @@ Please find below all the contributed resources, organised by category (click to
   
 - [Import AI 393: 10B distributed training run; China VS the chip embargo; and moral hazards of AI development](https://jack-clark.net/2024/12/03/import-ai-393-10b-distributed-training-run-china-vs-the-chip-embargo-and-moral-hazards-of-ai-development/) - Interesting article about the future of decentralised training
   
+- [Privacy-Preserving Retrieval Augmented Generation with Differential Privacy](https://arxiv.org/abs/2412.04697) - The first paper to explore RAG (Retrieval Augmented Generation) with Differential Privacy.
+
 - [Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/pdf/2102.02079v4) - This study introduces the first comprehensive benchmark with diverse data partitioning strategies to systematically evaluate FL algorithms under non-IID settings, providing valuable insights for future research. Source code: [here](https://github.com/Xtra-Computing/NIID-Bench).
+
+- [Secure Multiparty Computation, Yehuda Lindall, 2020](https://eprint.iacr.org/2020/300.pdf) - A great overview on the research/technical side of secure multi-party computation.
+
+- [How Federated Learning Protects Privacy](https://pair.withgoogle.com/explorables/federated-learning/) - The PAIR (People + AI Research) team at Google has published this engaging article that explains how Federated Learning protects privacy. It features clear visuals and GIFs to help you better understand the concept and its applications in real-world scenarios.
+
+- [RAPPOR: Randomized Aggregatable Privacy-Preserving Ordinal Response](https://arxiv.org/pdf/1407.6981) - This pioneering algorithm enables privacy-preserving data collection through randomized response techniques. It allows statistical analysis without compromising sensitive data.
 
 ### Courses
 
